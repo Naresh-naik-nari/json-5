@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            padding-top: 40px;
+            gap: 30px;
+            transition: 0.9s;
+        }
+
+        .item:hover {
+            transform: scale(1.1);
+            transition: 0.6s ease;
+        }
+
+        .image {
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .item {
+            border: 1px solid gray;
+            border-radius: 20px;
+            box-shadow: 5px 5px 4px 2px gray;
+            overflow: hidden;
+            padding: 10px;
+            background-color: white;
+        }
+
+        .item:hover .rating {
+            display: block;
+            transition: 0.6s;
+        }
+
+        body {
+            position: relative;
+            min-height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        /* HTML: <div class="loader"></div> */
+        .loader {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            aspect-ratio: 2;
+            --_g: no-repeat radial-gradient(circle closest-side, #000 90%, #0000);
+            background:
+                var(--_g) 0% 50%,
+                var(--_g) 50% 50%,
+                var(--_g) 100% 50%;
+            background-size: calc(100%/3) 50%;
+            animation: l3 1s infinite linear;
+        }
+
+        @keyframes l3 {
+            20% {
+                background-position: 0% 0%, 50% 50%, 100% 50%
+            }
+
+            40% {
+                background-position: 0% 100%, 50% 0%, 100% 50%
+            }
+
+            60% {
+                background-position: 0% 50%, 50% 100%, 100% 0%
+            }
+
+            80% {
+                background-position: 0% 50%, 50% 50%, 100% 100%
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="loader" id="loader"></div>
+    <script src="./json5.js"></script>
+</body>
+
+</html>
