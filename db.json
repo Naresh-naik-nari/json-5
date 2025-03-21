@@ -1,0 +1,1040 @@
+{
+  "profile": [
+      {
+          "id": "1489315637",
+          "date_posted": "2025-03-20T16:34:41",
+          "date_created": "2025-03-20T16:40:24.838347",
+          "title": "Data Engineer",
+          "organization": "Xyant Services",
+          "organization_url": "https://www.linkedin.com/company/xyantservices",
+          "date_validthrough": "2025-04-19T16:34:41",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "Tulsa",
+                      "addressRegion": "OK",
+                      "streetAddress": null
+                  },
+                  "latitude": 36.155327,
+                  "longitude": -95.99208
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": {
+              "@type": "MonetaryAmount",
+              "currency": "USD",
+              "value": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 100000,
+                  "maxValue": 135000,
+                  "unitText": "YEAR"
+              }
+          },
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/data-engineer-at-xyant-services-4185780274",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQGV1hX-846Uvg/company-logo_200_200/company-logo_200_200/0/1687208530478/xyantservices_logo?e=2147483647&v=beta&t=y3jrga_mz-nlcSOwWmR8k2Fomx3NOOJup1ztvU6yu-M",
+          "cities_derived": [
+              "Tulsa"
+          ],
+          "regions_derived": [
+              "Oklahoma"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "Tulsa, Oklahoma, United States"
+          ],
+          "timezones_derived": [
+              "America/Chicago"
+          ],
+          "lats_derived": [
+              36.1283
+          ],
+          "lngs_derived": [
+              -95.9042
+          ],
+          "remote_derived": false,
+          "recruiter_name": "Karthik J",
+          "recruiter_title": "Recruitment Manager / Account Manager",
+          "recruiter_url": "https://in.linkedin.com/in/karthijaga",
+          "linkedin_org_employees": 48,
+          "linkedin_org_url": "http://www.xyant.com",
+          "linkedin_org_size": "11-50 employees",
+          "linkedin_org_slogan": " EMPOWER • CONNECT • ENVISION",
+          "linkedin_org_industry": "Software Development",
+          "linkedin_org_followers": 37721,
+          "linkedin_org_headquarters": "Oklahoma City, Oklahoma",
+          "linkedin_org_type": "Privately Held",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              ""
+          ],
+          "linkedin_org_locations": [
+              "Oklahoma City, Oklahoma 73120, US"
+          ],
+          "linkedin_org_description": "Xyant Services provides management consulting services focusing on human capital management/workforce solutions for knowledge workers. We offer a unique solution to establish an on-site data science team with our expert mentorship, allowing for a seamless transition to your own capable and self-sufficient data science team in the future.",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": true,
+          "linkedin_org_slug": "xyantservices"
+      },
+      {
+          "id": "1489318376",
+          "date_posted": "2025-03-20T16:32:21",
+          "date_created": "2025-03-20T16:42:10.694344",
+          "title": "Senior Manager, Data Engineer",
+          "organization": "McDonald's",
+          "organization_url": "https://www.linkedin.com/company/mcdonald's-corporation",
+          "date_validthrough": "2025-04-19T16:31:42",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "Chicago",
+                      "addressRegion": "IL",
+                      "streetAddress": null
+                  },
+                  "latitude": 41.88323,
+                  "longitude": -87.6324
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-manager-data-engineer-at-mcdonald-s-4189682809",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHWxquJ9PJxvw/company-logo_200_200/company-logo_200_200/0/1630594652024/mcdonalds_corporation_logo?e=2147483647&v=beta&t=912EDsr4LlSsOaOuU0TjVivhHGVnV7gtgH6UcxP305E",
+          "cities_derived": [
+              "Chicago"
+          ],
+          "regions_derived": [
+              "Illinois"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "Chicago, Illinois, United States"
+          ],
+          "timezones_derived": [
+              "America/Chicago"
+          ],
+          "lats_derived": [
+              41.8375
+          ],
+          "lngs_derived": [
+              -87.6866
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 356220,
+          "linkedin_org_url": "https://corporate.mcdonalds.com/",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Restaurants",
+          "linkedin_org_followers": 2074702,
+          "linkedin_org_headquarters": "Chicago, Illinois",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Restaurant",
+              "sustainability",
+              "foodservice",
+              "franchising",
+              "operations",
+              "real estate",
+              "supply chain",
+              "communications",
+              "human resources",
+              "finance",
+              "IT",
+              "accounting",
+              "marketing",
+              "investor relations",
+              "charities",
+              "RMHC",
+              "diversity",
+              "CSR",
+              "legal",
+              "and insurance"
+          ],
+          "linkedin_org_locations": [
+              "110 N Carpenter St, Chicago, Illinois 60607, US"
+          ],
+          "linkedin_org_description": "McDonald’s is the world’s leading global foodservice retailer with over 37,000 locations in over 100 countries.  More than 90% of McDonald’s restaurants worldwide are owned and operated by independent local business men and women.\n \nMcDonald's & our franchisees employ 1.9 million people worldwide.\n\nWe serve the world some of its favorite foods - World Famous Fries, Big Mac, Quarter Pounder, Chicken McNuggets and Egg McMuffin. \n\nTo learn more about the company, please visit www.aboutmcdonalds.com.",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "mcdonald's-corporation"
+      },
+      {
+          "id": "1489317609",
+          "date_posted": "2025-03-20T16:31:54",
+          "date_created": "2025-03-20T16:41:47.56734",
+          "title": "Data Engineer Apprentice",
+          "organization": "Compare the Market",
+          "organization_url": "https://www.linkedin.com/company/comparethemarket",
+          "date_validthrough": "2025-04-19T16:31:54",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "GB",
+                      "addressLocality": "London Area",
+                      "addressRegion": null,
+                      "streetAddress": null
+                  },
+                  "latitude": 51.51649,
+                  "longitude": -0.128427
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://uk.linkedin.com/jobs/view/data-engineer-apprentice-at-compare-the-market-4189681436",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "uk.linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFAWoAidet_3Q/company-logo_200_200/company-logo_200_200/0/1663663638986/comparethemarket_com_logo?e=2147483647&v=beta&t=qdK60JWfbuXeQmgF6eFeuyManGkfLUpXvI2L2LPaDoQ",
+          "cities_derived": null,
+          "regions_derived": [
+              "London, City of"
+          ],
+          "countries_derived": [
+              "United Kingdom"
+          ],
+          "locations_derived": [
+              "London, City of, United Kingdom"
+          ],
+          "timezones_derived": [
+              "Europe/London"
+          ],
+          "lats_derived": [
+              51.5072
+          ],
+          "lngs_derived": [
+              -0.1275
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 786,
+          "linkedin_org_url": "http://www.comparethemarket.com",
+          "linkedin_org_size": "501-1,000 employees",
+          "linkedin_org_slogan": "We exist to make great financial decision-making a breeze for everyone.",
+          "linkedin_org_industry": "Software Development",
+          "linkedin_org_followers": 14172,
+          "linkedin_org_headquarters": "London, London",
+          "linkedin_org_type": "Privately Held",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "price comparison",
+              "car insurance",
+              "home insurance",
+              "life insurance",
+              "credit cards",
+              "pet insurance",
+              "energy",
+              "Software Engineering",
+              "Product Engineering",
+              "UX/UI",
+              "Marketing",
+              "and Tech"
+          ],
+          "linkedin_org_locations": [
+              "White Collar Factory, 1 Old Street Yard, London, London EC1Y 8AF, GB",
+              "Saxon House, Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS, GB"
+          ],
+          "linkedin_org_description": "Compare the Market is one of the UK's best loved and most recognised brands.\n\nOur purpose is to make great financial decision-making a breeze for everyone; simple for the perplexed, quick for the hassled, funny for the bored, and confident for the nervous and unsure.\n\nWe think good things happen for our customers when they meerkat, but we also think this is true for our colleagues.\n\nWe believe in looking after our people and developing talent. We think that making life enjoyable in and out of work helps us to be the best we can be. We therefore give our people all kinds of extra benefits, whether that’s professional training, healthcare or life insurance, family fun days, monthly prize draws and a whole lot more.  \n\nTo find out more about working at Compare the Market and to see our open jobs, visit joinus.comparethemarket.com .\n\nDon’t forget to follow us on twitter: @comparemkttech",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Internship",
+          "directapply": false,
+          "linkedin_org_slug": "comparethemarket"
+      },
+      {
+          "id": "1489318962",
+          "date_posted": "2025-03-20T16:22:37",
+          "date_created": "2025-03-20T16:42:28.709028",
+          "title": "GIS Data Engineer ",
+          "organization": "ADLIB Recruitment | B Corp™",
+          "organization_url": "https://www.linkedin.com/company/adlib",
+          "date_validthrough": "2025-04-19T16:22:36",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "GB",
+                      "addressLocality": "Bath",
+                      "addressRegion": null,
+                      "streetAddress": null
+                  },
+                  "latitude": 51.3823,
+                  "longitude": -2.3579383
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": {
+              "@type": "MonetaryAmount",
+              "currency": "GBP",
+              "value": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 35000,
+                  "maxValue": 50000,
+                  "unitText": "YEAR"
+              }
+          },
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://uk.linkedin.com/jobs/view/gis-data-engineer-at-adlib-recruitment-b-corp%E2%84%A2-4187504359",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "uk.linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG0pm5LleNZFw/company-logo_200_200/company-logo_200_200/0/1689075391933/adlib_logo?e=2147483647&v=beta&t=hIW6WoDNasPLjtj1MxSqTts-JY1UCTNur8kcVhFZtrw",
+          "cities_derived": null,
+          "regions_derived": [
+              "Bath and North East Somerset"
+          ],
+          "countries_derived": [
+              "United Kingdom"
+          ],
+          "locations_derived": [
+              "Bath and North East Somerset, United Kingdom"
+          ],
+          "timezones_derived": [
+              "Europe/London"
+          ],
+          "lats_derived": [
+              51.38
+          ],
+          "lngs_derived": [
+              -2.36
+          ],
+          "remote_derived": false,
+          "recruiter_name": "Tegan Fenn",
+          "recruiter_title": "Lead Senior Data Recruiter at ADLIB - B Corp Certified - Ambassador at MotherBoard",
+          "recruiter_url": "https://uk.linkedin.com/in/tegan-fenn-4babb3182",
+          "linkedin_org_employees": 61,
+          "linkedin_org_url": "http://www.adlib-recruitment.co.uk",
+          "linkedin_org_size": "11-50 employees",
+          "linkedin_org_slogan": "Creating teams. Shaping futures. Proudly B Corp Certified.",
+          "linkedin_org_industry": "Staffing and Recruiting",
+          "linkedin_org_followers": 57698,
+          "linkedin_org_headquarters": "Bristol, Bristol",
+          "linkedin_org_type": "Privately Held",
+          "linkedin_org_foundeddate": "2000",
+          "linkedin_org_specialties": [
+              "Marketing & Communications Recruitment",
+              "Creative Recruitment",
+              "Digital Technology Recruitment",
+              "Digital Recruitment",
+              "Digital Marketing Recruitment",
+              "Search & Selection",
+              "Talent Finding",
+              "Salary & Benchmarking",
+              "Market Mapping",
+              "eCommerce Recruitment",
+              "Employee Engagement",
+              "UX & UI Recruitment",
+              "Digital Transformation & Change Recruitment",
+              "Data Recruitment",
+              "Agency Recruitment",
+              "Digital Change & Transformation Recruitment",
+              "Insight",
+              "Data & Analytics Recruitment",
+              "Marketing & Agency Recruitment",
+              "Technology Recruitment",
+              "eCommerce Recruitment",
+              "Project Management Recruitment",
+              "Product Management Recruitment",
+              "UX Recruitment",
+              "Science Recruitment",
+              "Engineering Recruitment",
+              "Pharmaceuticals Recruitment",
+              "Design Recruitment",
+              "and Sustainability Recruitment"
+          ],
+          "linkedin_org_locations": [
+              "3rd Floor, St Bartholomews House, Bristol, Bristol BS1 2NH, GB",
+              "30 Grand Parade, brighton, BN2 9QA, GB"
+          ],
+          "linkedin_org_description": "We are a Recruitment Agency with purpose. Proudly B Corp certified and employee-owned. Our mission and impact go far beyond recruitment. We immerse ourselves in the worlds we operate in. A trusted partner, supporting growth and success at pace since 2001.\n\nWe believe business can be a force for good, and at the core of all great organisations, are great people. We connect ambitious organisations with equally ambitious talent, balancing profit and purpose.\n\nTechnology | Agile Product | Data | Engineering | Science | Sustainability | eCommerce | Marketing | Design\n\nOur highly respected and experienced team is regularly called on to share their unrivalled knowledge and bring the finest talent together with ambitious start-ups, thriving SMEs, agencies of all shapes and sizes, challenger brands and global organisations.\n\n🌐  www.adlib-recruitment.co.uk\n✉️ hello@adlib-recruitment.co.uk\n📞 0117 926 9530\n@adlibrecruit",
+          "linkedin_org_recruitment_agency_derived": true,
+          "seniority": "Associate",
+          "directapply": true,
+          "linkedin_org_slug": "adlib"
+      },
+      {
+          "id": "1489310552",
+          "date_posted": "2025-03-20T16:20:48",
+          "date_created": "2025-03-20T16:32:17.588298",
+          "title": "Senior Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:48",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "McLean",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 38.93759,
+                  "longitude": -77.18378
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-one-4189676531",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "McLean"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "McLean, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              38.9436
+          ],
+          "lngs_derived": [
+              -77.1943
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489315687",
+          "date_posted": "2025-03-20T16:20:48",
+          "date_created": "2025-03-20T16:40:27.701719",
+          "title": "Lead Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:48",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "Richmond",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 37.54076,
+                  "longitude": -77.43393
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-capital-one-4189676539",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "Richmond"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "Richmond, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              37.5295
+          ],
+          "lngs_derived": [
+              -77.4756
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489310513",
+          "date_posted": "2025-03-20T16:20:48",
+          "date_created": "2025-03-20T16:32:09.441797",
+          "title": "Senior Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:48",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "McLean",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 38.93759,
+                  "longitude": -77.18378
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-one-4189680181",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "McLean"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "McLean, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              38.9436
+          ],
+          "lngs_derived": [
+              -77.1943
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489310543",
+          "date_posted": "2025-03-20T16:20:48",
+          "date_created": "2025-03-20T16:32:15.955029",
+          "title": "Senior Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:48",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "McLean",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 38.93759,
+                  "longitude": -77.18378
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-one-4189674685",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "McLean"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "McLean, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              38.9436
+          ],
+          "lngs_derived": [
+              -77.1943
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489311340",
+          "date_posted": "2025-03-20T16:20:47",
+          "date_created": "2025-03-20T16:35:01.743076",
+          "title": "Senior Data Engineer (Bank Tech)",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:47",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "McLean",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 38.93759,
+                  "longitude": -77.18378
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-bank-tech-at-capital-one-4189674688",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "McLean"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "McLean, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              38.9436
+          ],
+          "lngs_derived": [
+              -77.1943
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489310546",
+          "date_posted": "2025-03-20T16:20:47",
+          "date_created": "2025-03-20T16:32:16.581283",
+          "title": "Senior Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:47",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "McLean",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 38.93759,
+                  "longitude": -77.18378
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-capital-one-4189676541",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "McLean"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "McLean, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              38.9436
+          ],
+          "lngs_derived": [
+              -77.1943
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489315668",
+          "date_posted": "2025-03-20T16:20:47",
+          "date_created": "2025-03-20T16:40:26.803802",
+          "title": "Lead Data Engineer",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:47",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "Richmond",
+                      "addressRegion": "VA",
+                      "streetAddress": null
+                  },
+                  "latitude": 37.54076,
+                  "longitude": -77.43393
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/lead-data-engineer-at-capital-one-4189676542",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": [
+              "Richmond"
+          ],
+          "regions_derived": [
+              "Virginia"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "Richmond, Virginia, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              37.5295
+          ],
+          "lngs_derived": [
+              -77.4756
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      },
+      {
+          "id": "1489314247",
+          "date_posted": "2025-03-20T16:20:47",
+          "date_created": "2025-03-20T16:38:55.439836",
+          "title": "Distinguished Data Engineer - Card Technology",
+          "organization": "Capital One",
+          "organization_url": "https://www.linkedin.com/company/capital-one",
+          "date_validthrough": "2025-04-19T16:20:47",
+          "locations_raw": [
+              {
+                  "@type": "Place",
+                  "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "US",
+                      "addressLocality": "New York",
+                      "addressRegion": "NY",
+                      "streetAddress": null
+                  },
+                  "latitude": 40.713047,
+                  "longitude": -74.00723
+              }
+          ],
+          "location_type": null,
+          "location_requirements_raw": null,
+          "salary_raw": null,
+          "employment_type": [
+              "FULL_TIME"
+          ],
+          "url": "https://www.linkedin.com/jobs/view/distinguished-data-engineer-card-technology-at-capital-one-4189674689",
+          "source_type": "jobboard",
+          "source": "linkedin",
+          "source_domain": "linkedin.com",
+          "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_200_200/company-logo_200_200/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=EdvNN6BepIhdQnc9udE-QlqxASeRgfZxEr0ZYI4s6cQ",
+          "cities_derived": null,
+          "regions_derived": [
+              "New York"
+          ],
+          "countries_derived": [
+              "United States"
+          ],
+          "locations_derived": [
+              "New York, United States"
+          ],
+          "timezones_derived": [
+              "America/New_York"
+          ],
+          "lats_derived": [
+              42.6664
+          ],
+          "lngs_derived": [
+              -73.7987
+          ],
+          "remote_derived": false,
+          "recruiter_name": null,
+          "recruiter_title": null,
+          "recruiter_url": null,
+          "linkedin_org_employees": 59506,
+          "linkedin_org_url": "http://www.capitalone.com",
+          "linkedin_org_size": "10,001+ employees",
+          "linkedin_org_slogan": null,
+          "linkedin_org_industry": "Financial Services",
+          "linkedin_org_followers": 851422,
+          "linkedin_org_headquarters": "McLean, Va",
+          "linkedin_org_type": "Public Company",
+          "linkedin_org_foundeddate": "",
+          "linkedin_org_specialties": [
+              "Business Banking"
+          ],
+          "linkedin_org_locations": [
+              "1680 Capital One Drive, McLean, Va 22102, US",
+              "8020 Towers Crescent Dr, Vienna, VA 22182, US",
+              "2 Bethesda METRO Center, Bethesda, MD 20814, US"
+          ],
+          "linkedin_org_description": "At Capital One, we're making things better for our customers and associates through innovation and collaboration. We were founded on the belief that everyone deserves financial freedom—and are dedicated to a world where all have equal opportunity to prosper. \n\nBanking is in our DNA, but we are so much more than a bank. We always think about what’s next—and how we can bring our customers the tools needed to improve their financial lives. Your ideas, experiences and skills will help make banking better. You’ll be part of a supportive culture while earning amazing benefits. That’s life at Capital One. \n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n\nView our Social Media Community Guidelines https://www.capitalone.com/digital/social-media/\n",
+          "linkedin_org_recruitment_agency_derived": false,
+          "seniority": "Mid-Senior level",
+          "directapply": false,
+          "linkedin_org_slug": "capital-one"
+      }
+  ]
+}
